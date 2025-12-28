@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Pyenv
+.python-version
+
+# Env / secrets
+.env
+
+# OS / editor
+.vscode/
+.DS_Store
+
+# ML artifacts
+*.pt
+*.pth
+*.ckpt
