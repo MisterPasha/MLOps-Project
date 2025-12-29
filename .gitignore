@@ -17,3 +17,8 @@ __pycache__/
 *.pt
 *.pth
 *.ckpt
+
+*.zip
+aws/
+
+boto3/creds/
