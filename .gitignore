@@ -25,3 +25,6 @@ boto3/creds/
 
 # Files
 *.pdf
+
+# Model Checkpoints
+sentiment_classification/train_tinybert/imdb
