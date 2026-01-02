@@ -27,4 +27,6 @@ boto3/creds/
 *.pdf
 
 # Model Checkpoints
-sentiment_classification/train_tinybert/imdb
+sentiment_classification/train_tinybert_imdb
+
+disaster_tweet_classification/train_dir
